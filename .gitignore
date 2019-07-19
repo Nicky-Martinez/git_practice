@@ -6,4 +6,5 @@ temp/
 yarn.lock
 .idea/
 *temp*/
+*.pdf
 
